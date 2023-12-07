@@ -1,7 +1,6 @@
 package com.intuit.playerdb.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.sun.xml.internal.ws.developer.Serialization;
 import lombok.Data;
 
 import javax.persistence.Column;

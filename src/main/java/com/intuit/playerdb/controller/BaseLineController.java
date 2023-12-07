@@ -2,7 +2,6 @@ package com.intuit.playerdb.controller;
 
 import com.intuit.playerdb.model.Baseline;
 import com.intuit.playerdb.model.Baselines;
-import com.intuit.playerdb.repository.BaselineRepository;
 import com.intuit.playerdb.service.BaselineService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
